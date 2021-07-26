@@ -1,4 +1,4 @@
-# regua-extemsao-energia-wifi-esp32
+# regua-extensao-energia-wifi-esp32
 
 Fala galera, tudo bem com vocês? No tutorial de hoje vamos aprender como construir uma régua/extensão de energia WiFi com Esp32, e assim poderemos controlar nossos eletrodomésticos pelo WiFi conectado pelo aplicativo Blynk, um projeto fácil de fazer e muito prático, pois você poderá levar para viagem e usá-lo para ligar e desligar o seu ventilador por exemplo!
 
