@@ -4,6 +4,6 @@ Fala galera, tudo bem com vocês? No tutorial de hoje vamos aprender como constr
 
 ![Esquema](https://blog.arduinoomega.com/wp-content/uploads/2021/07/regua-wifi-arduinoomega-1024x720.jpg)
 
-## Veja o tutorial completo em [Como construir uma régua/extensão de energia WiFi com Esp32](https://blog.arduinoomega.com/como-construir-uma-regua-extensao-de-energia-wifi-com-esp32/).
+## Veja o tutorial completo em [Blog Arduino Ômega - Como construir uma régua/extensão de energia WiFi com Esp32](https://blog.arduinoomega.com/como-construir-uma-regua-extensao-de-energia-wifi-com-esp32/).
 
 ### Tutorial por [Sandro Mesquita](https://www.instagram.com/profsandromesquita/).
